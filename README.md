@@ -1,4 +1,4 @@
-# Sales-Performance-Dashboard---Marketing-Company
+# Sales-Performance-Dashboard---Comercial-Company
 
 This project utilizes Power BI to analyze the sales performance of a marketing company, providing strategic insights into segments, categories, regions, and sales influencers.
 Objectives
